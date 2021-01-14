@@ -7,7 +7,7 @@
 ### This program is designed to generate path waypoints for the autonomous period of an FRC Match.  
 
 ## Features of PathGenerator
-<li> Generates a CSV file with path to easily integrate with java code</li>
+<li> Generates a Yaml file with path to easily integrate with java code</li>
 <li> Clean modern UI for Ease of Use </li>
 <li> Highly Configurable</li>
 <li> Open Source</li>
